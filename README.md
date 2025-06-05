@@ -1,1 +1,0 @@
-# software_development_methodology
